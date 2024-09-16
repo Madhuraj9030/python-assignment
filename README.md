@@ -1,5 +1,5 @@
 -- this is the first git commit i have done without main but in master and have added the files which i have practised on my own and the question are below
-  Q1. Declare a variable called age & assign to it your age. Print your age.
+Q1. Declare a variable called age & assign to it your age. Print your age.
 Q2. Declare & initialize a variable to keep track of how many times a visitor has visited your program. Show his/her number of visits on your program. For example: “You have visited this site N times”.
 Q3. Declare a variable called birthYear & assign to it your birth year. Also Print the type of your variable using type(). Print the following message:
 My birth year is 1990
